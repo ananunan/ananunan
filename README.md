@@ -2,6 +2,8 @@
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98FB98&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=DDDDDD&multiline=true&repeat=true&random=false&width=435&lines=Hi%2C+My+name+is+Ana+Luisa+Nunan)](https://git.io/typing-svg)
+
 <h3 align="center"> Student at 42 - Porto trying to learn more about programming and cybersecurity (: </h3>
 
 ---
