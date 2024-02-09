@@ -1,8 +1,10 @@
 <div align="center">
 
-<h1 align="center">Hi, I´m Ana Luisa Nunan</h1>
-<h3 align="center"> Student at 42-Porto trying to learn more about programming and cybersecurity (: </h3>
+
+<h3 align="center"> Student at 42 - Porto trying to learn more about programming and cybersecurity (: </h3>
+
 ---
+
 <img width="70px" src="https://i.imgur.com/yY111FZ.png" alt="Visual Studio Code">
 <img width="70px" src="https://i.imgur.com/2tkmLF2.png" alt="C Programming Language">
 
