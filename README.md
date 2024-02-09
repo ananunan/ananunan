@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98FB98&height=120&section=header"/>
 
 <h3 align="center"> Student at 42 - Porto trying to learn more about programming and cybersecurity (: </h3>
 
@@ -12,4 +12,4 @@
 <a href="https://www.linkedin.com/in/ana-luisa-nunan-711411193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98FB98&height=120&section=footer"/>
