@@ -9,7 +9,10 @@
 ---
 
 <img width="70px" src="https://i.imgur.com/yY111FZ.png" alt="Visual Studio Code">
+<img width="70px" src="https://i.imgur.com/7DkX1WS.png" alt="Linux">
 <img width="70px" src="https://i.imgur.com/2tkmLF2.png" alt="C Programming Language">
+<img width="70px" src="https://i.imgur.com/z9shluT.png" alt="Bash">
+<img width="70px" src="https://i.imgur.com/t2ttPzu.png" alt="Git Hub">
 
 <a href="https://www.linkedin.com/in/ana-luisa-nunan-711411193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
