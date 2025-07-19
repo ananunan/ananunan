@@ -11,6 +11,10 @@
 <img width="70px" src="https://i.imgur.com/yY111FZ.png" alt="Visual Studio Code">
 <img width="70px" src="https://i.imgur.com/7DkX1WS.png" alt="Linux">
 <img width="70px" src="https://i.imgur.com/2tkmLF2.png" alt="C Programming Language">
+<img width="70px" src="https://i.imgur.com/wgik4Wp.png" alt="HTML Programming Language">
+<img width="70px" src="https://i.imgur.com/IycOl6h.png" alt="CSS Programming Language">
+<img width="70px" src="https://i.imgur.com/eJU75IJ.png" alt="Java Script Programming Language">
+<img width="70px" src="https://i.imgur.com/KvEq2hG.png" alt="Mongo DB">
 <img width="70px" src="https://i.imgur.com/z9shluT.png" alt="Bash">
 <img width="70px" src="https://i.imgur.com/t2ttPzu.png" alt="Git Hub">
 
