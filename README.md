@@ -14,8 +14,6 @@
 <img width="70px" src="https://i.imgur.com/EV2mrFM.png" alt="Java Programming Language">
 <img width="70px" src="https://i.imgur.com/wgik4Wp.png" alt="HTML Programming Language">
 <img width="70px" src="https://i.imgur.com/IycOl6h.png" alt="CSS Programming Language">
-<img width="70px" src="https://i.imgur.com/eJU75IJ.png" alt="Java Script Programming Language">
-<img width="70px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" alt="PlayWright">
 <img width="70px" src="https://i.imgur.com/KvEq2hG.png" alt="Mongo DB">
 <img width="70px" src="https://i.imgur.com/7DkX1WS.png" alt="Linux">
 <img width="70px" src="https://i.imgur.com/z9shluT.png" alt="Bash">
