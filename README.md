@@ -11,7 +11,6 @@
 
 <img width="70px" src="https://i.imgur.com/2tkmLF2.png" alt="C Programming Language">
 <img width="70px" src="https://i.imgur.com/t7Bm9Ln.png" alt="C# Programming Language">
-<img width="70px" src="https://i.imgur.com/EV2mrFM.png" alt="Java Programming Language">
 <img width="70px" src="https://i.imgur.com/wgik4Wp.png" alt="HTML Programming Language">
 <img width="70px" src="https://i.imgur.com/IycOl6h.png" alt="CSS Programming Language">
 <img width="70px" src="https://i.imgur.com/KvEq2hG.png" alt="Mongo DB">
